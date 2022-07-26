@@ -1,0 +1,2 @@
+rootProject.name='Creaturemon'
+include ':app'
